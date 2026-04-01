@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "日常革命",
   "base_artist": "ねぐせ。",
-  "createdAt": "2025-12-26T09:04:23.144090Z",
+  "createdAt": "2026-04-01T05:37:45.532344Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,15 @@
       "artist": "ねぐせ。",
       "has_synced": false,
       "path": "select/pl_01_日常革命_ねぐせ。.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "日常革命",
+      "artist": "ねぐせ。",
+      "has_synced": true,
+      "path": "select/localdb_01_日常革命_ねぐせ。.lrc",
+      "repo_name": "Z-1qpeyaNb0"
     }
   ]
 }
